@@ -1,0 +1,11 @@
+.hide-bullet {
+    list-style: none;
+}
+
+.nav-bar-container {
+    background-color: #6666;
+}
+
+.nav-bar-container ul li:hover {
+    cursor: pointer;
+}
